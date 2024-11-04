@@ -50,15 +50,15 @@ Stay tuned for more updates on the projects I’m currently working on.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diwahar-k&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwahar-k&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=diwahar-kodeswaran&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwahar-kodeswaran&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](Your LinkedIn URL)
+- [LinkedIn](https://www.linkedin.com/in/diwahar-kodeswaran/)
 
 ---
 
